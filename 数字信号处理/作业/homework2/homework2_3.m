@@ -1,10 +1,24 @@
 Dt = 0.0001; 
 t = -10:Dt:10;
 f = 0.*(t < -pi) + 0.5*(1 + cos(t)).*(t >= -pi & t <= pi) + 0.*(t > pi); % 分段函数，这里无法表示负无穷到正无穷所以用-10到10近似
-w = linspace(-2*pi,2*pi,1000); % [-2pi,2pi]之间的频率区间分割为1000份
-X = f*exp(-1j*t'*w)*Dt; %傅里叶变换
-subplot(3,1,1);
-plot(w,X);
-xlabel('Ω');
-ylabel('X(jΩ)');
-title('frequency spectrum of original ');
+plot(t,f);
+xlabel('t');
+ylabel('f(t)');
+title('the comparsion of original siginal and the reconstructed signal');
+hold;
+
+T = 1; %采样周期为1
+tn = -10:T:10;
+f1 = 0.*(tn < -pi) + 0.5*(1 + cos(tn)).*(tn >= -pi & tn <= pi) + 0.*(tn > pi); %生成抽样信号
+n = -10/T : 10/T;
+fs = 1/T; %采样频率
+
+T_N = ones(length(n),1) * tn - n'*T*ones(1,length(tn));
+xa = f1*sinc(fs*T_N);
+plot(tn,xa);
+legend('original signal','reconstructed signal');
+
+
+
+
+

@@ -6,7 +6,6 @@ plot(t,f);
 xlabel('t');
 ylabel('f(t)');
 title('f(t) = 1/2 * (1 + cos(t) )');
-% hold; %锁定绘图
 w = linspace(-2*pi,2*pi,1000); % [-2pi,2pi]之间的频率区间分割为1000份
 X = f*exp(-1j*t'*w)*Dt; %傅里叶变换
 subplot(2,1,2);
