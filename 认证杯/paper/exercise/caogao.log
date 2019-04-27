@@ -1,0 +1,3940 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9) (preloaded format=xelatex 2019.4.19)  22 APR 2019 19:47
+entering extended mode
+**./caogao.tex
+(caogao.tex
+LaTeX2e <2018-12-01>
+(F:\latex\tex\latex\base\article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(F:\latex\tex\latex\base\size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+Requested font "[lmroman10-regular]:mapping=tex-text;" at 10.0pt
+ -> F:/latex/fonts/opentype/public/lm/lmroman10-regular.otf
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (F:\latex\tex\xelatex\xecjk\xeCJK.sty
+(F:\latex\tex\latex\l3kernel\expl3.sty
+Package: expl3 2019-04-06 L3 programming layer (loader) 
+
+(F:\latex\tex\latex\l3kernel\expl3-code.tex
+Package: expl3 2019-04-06 L3 programming layer (code)
+\c_max_int=\count88
+\l_tmpa_int=\count89
+\l_tmpb_int=\count90
+\g_tmpa_int=\count91
+\g_tmpb_int=\count92
+\g__kernel_prg_map_int=\count93
+\c__ior_term_ior=\count94
+\c_log_iow=\count95
+\l_iow_line_count_int=\count96
+\l__iow_line_target_int=\count97
+\l__iow_one_indent_int=\count98
+\l__iow_indent_int=\count99
+\c_zero_dim=\dimen103
+\c_max_dim=\dimen104
+\l_tmpa_dim=\dimen105
+\l_tmpb_dim=\dimen106
+\g_tmpa_dim=\dimen107
+\g_tmpb_dim=\dimen108
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+\l_keys_choice_int=\count100
+\l__intarray_loop_int=\count101
+\c__intarray_sp_dim=\dimen109
+\g__intarray_font_int=\count102
+\c__fp_leading_shift_int=\count103
+\c__fp_middle_shift_int=\count104
+\c__fp_trailing_shift_int=\count105
+\c__fp_big_leading_shift_int=\count106
+\c__fp_big_middle_shift_int=\count107
+\c__fp_big_trailing_shift_int=\count108
+\c__fp_Bigg_leading_shift_int=\count109
+\c__fp_Bigg_middle_shift_int=\count110
+\c__fp_Bigg_trailing_shift_int=\count111
+Requested font "cmr10" at 0.00002pt
+Requested font "cmr10" at 0.00003pt
+\g__fp_array_int=\count112
+\l__fp_array_loop_int=\count113
+\l__sort_length_int=\count114
+\l__sort_min_int=\count115
+\l__sort_top_int=\count116
+\l__sort_max_int=\count117
+\l__sort_true_max_int=\count118
+\l__sort_block_int=\count119
+\l__sort_begin_int=\count120
+\l__sort_end_int=\count121
+\l__sort_A_int=\count122
+\l__sort_B_int=\count123
+\l__sort_C_int=\count124
+\l__tl_analysis_normal_int=\count125
+\l__tl_analysis_index_int=\count126
+\l__tl_analysis_nesting_int=\count127
+\l__tl_analysis_type_int=\count128
+\l__regex_internal_a_int=\count129
+\l__regex_internal_b_int=\count130
+\l__regex_internal_c_int=\count131
+Requested font "cmr10" at 0.00005pt
+Requested font "cmr10" at 0.00006pt
+Requested font "cmr10" at 0.00008pt
+\l__regex_balance_int=\count132
+\l__regex_group_level_int=\count133
+\l__regex_mode_int=\count134
+\c__regex_cs_in_class_mode_int=\count135
+\c__regex_cs_mode_int=\count136
+\l__regex_catcodes_int=\count137
+\l__regex_default_catcodes_int=\count138
+\c__regex_catcode_L_int=\count139
+\c__regex_catcode_O_int=\count140
+\c__regex_catcode_A_int=\count141
+\c__regex_all_catcodes_int=\count142
+\l__regex_show_lines_int=\count143
+\l__regex_min_state_int=\count144
+\l__regex_max_state_int=\count145
+\l__regex_left_state_int=\count146
+\l__regex_right_state_int=\count147
+\l__regex_capturing_group_int=\count148
+\l__regex_min_pos_int=\count149
+\l__regex_max_pos_int=\count150
+\l__regex_curr_pos_int=\count151
+\l__regex_start_pos_int=\count152
+\l__regex_success_pos_int=\count153
+\l__regex_curr_char_int=\count154
+\l__regex_curr_catcode_int=\count155
+\l__regex_last_char_int=\count156
+\l__regex_case_changed_char_int=\count157
+\l__regex_curr_state_int=\count158
+\l__regex_step_int=\count159
+\l__regex_min_active_int=\count160
+\l__regex_max_active_int=\count161
+Requested font "cmr10" at 0.00009pt
+Requested font "cmr10" at 0.0001pt
+\l__regex_replacement_csnames_int=\count162
+\l__regex_match_count_int=\count163
+\l__regex_min_submatch_int=\count164
+\l__regex_submatch_int=\count165
+\l__regex_zeroth_submatch_int=\count166
+Requested font "cmr10" at 0.00012pt
+Requested font "cmr10" at 0.00014pt
+Requested font "cmr10" at 0.00015pt
+\g__regex_trace_regex_int=\count167
+\c_empty_box=\box27
+\l_tmpa_box=\box28
+\l_tmpb_box=\box29
+\g_tmpa_box=\box30
+\g_tmpb_box=\box31
+\l__box_top_dim=\dimen110
+\l__box_bottom_dim=\dimen111
+\l__box_left_dim=\dimen112
+\l__box_right_dim=\dimen113
+\l__box_top_new_dim=\dimen114
+\l__box_bottom_new_dim=\dimen115
+\l__box_left_new_dim=\dimen116
+\l__box_right_new_dim=\dimen117
+\l__box_internal_box=\box32
+\l__coffin_internal_box=\box33
+\l__coffin_internal_dim=\dimen118
+\l__coffin_offset_x_dim=\dimen119
+\l__coffin_offset_y_dim=\dimen120
+\l__coffin_x_dim=\dimen121
+\l__coffin_y_dim=\dimen122
+\l__coffin_x_prime_dim=\dimen123
+\l__coffin_y_prime_dim=\dimen124
+\c_empty_coffin=\box34
+\l__coffin_aligned_coffin=\box35
+\l__coffin_aligned_internal_coffin=\box36
+\l_tmpa_coffin=\box37
+\l_tmpb_coffin=\box38
+\g_tmpa_coffin=\box39
+\g_tmpb_coffin=\box40
+\l__coffin_bounding_shift_dim=\dimen125
+\l__coffin_left_corner_dim=\dimen126
+\l__coffin_right_corner_dim=\dimen127
+\l__coffin_bottom_corner_dim=\dimen128
+\l__coffin_top_corner_dim=\dimen129
+\l__coffin_scaled_total_height_dim=\dimen130
+\l__coffin_scaled_width_dim=\dimen131
+\c__coffin_empty_coffin=\box41
+\l__coffin_display_coffin=\box42
+\l__coffin_display_coord_coffin=\box43
+\l__coffin_display_pole_coffin=\box44
+\l__coffin_display_offset_dim=\dimen132
+\l__coffin_display_x_dim=\dimen133
+\l__coffin_display_y_dim=\dimen134
+\g__file_internal_ior=\read1
+\c__deprecation_minus_one=\count168
+)
+(F:\latex\tex\latex\l3kernel\l3xdvipdfmx.def
+File: l3xdvipdfmx.def 2019-04-06 v L3 Experimental driver: xdvipdfmx
+\g__driver_image_int=\count169
+\g__driver_pdf_object_int=\count170
+))
+Package: xeCJK 2019/04/07 v3.7.2 Typesetting CJK scripts with XeLaTeX
+
+(F:\latex\tex\latex\l3packages\xtemplate\xtemplate.sty
+Package: xtemplate 2019-03-05 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen135
+\l__xtemplate_tmp_int=\count171
+\l__xtemplate_tmp_muskip=\muskip16
+\l__xtemplate_tmp_skip=\skip49
+)
+(F:\latex\tex\latex\l3packages\xparse\xparse.sty
+Package: xparse 2019-03-05 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count172
+\g__xparse_grabber_int=\count173
+\l__xparse_m_args_int=\count174
+\l__xparse_v_nesting_int=\count175
+)
+(F:\latex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+Package: l3keys2e 2019-03-05 LaTeX2e option processing using LaTeX3 keys
+)
+\l__xeCJK_tmp_int=\count176
+\l__xeCJK_tmp_box=\box45
+\l__xeCJK_tmp_dim=\dimen136
+\l__xeCJK_tmp_skip=\skip50
+\g__xeCJK_space_factor_int=\count177
+\l__xeCJK_begin_int=\count178
+\l__xeCJK_end_int=\count179
+\c__xeCJK_CJK_class_int=\XeTeXcharclass1
+\c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
+\c__xeCJK_FullRight_class_int=\XeTeXcharclass3
+\c__xeCJK_HalfLeft_class_int=\XeTeXcharclass4
+\c__xeCJK_HalfRight_class_int=\XeTeXcharclass5
+\c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
+\c__xeCJK_CM_class_int=\XeTeXcharclass7
+\c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
+\l__xeCJK_last_skip=\skip51
+\g__xeCJK_node_int=\count180
+\c__xeCJK_CJK_node_dim=\dimen137
+\c__xeCJK_CJK-space_node_dim=\dimen138
+\c__xeCJK_default_node_dim=\dimen139
+\c__xeCJK_default-space_node_dim=\dimen140
+\c__xeCJK_CJK-widow_node_dim=\dimen141
+\c__xeCJK_normalspace_node_dim=\dimen142
+\l__xeCJK_ccglue_skip=\skip52
+\l__xeCJK_ecglue_skip=\skip53
+\l__xeCJK_punct_kern_skip=\skip54
+\l__xeCJK_last_penalty_int=\count181
+\l__xeCJK_last_bound_dim=\dimen143
+\l__xeCJK_last_kern_dim=\dimen144
+\l__xeCJK_widow_penalty_int=\count182
+
+Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
+(xtemplate)             argument(s) on line 2352.
+
+\l__xeCJK_fixed_punct_width_dim=\dimen145
+\l__xeCJK_mixed_punct_width_dim=\dimen146
+\l__xeCJK_middle_punct_width_dim=\dimen147
+\l__xeCJK_fixed_margin_width_dim=\dimen148
+\l__xeCJK_mixed_margin_width_dim=\dimen149
+\l__xeCJK_middle_margin_width_dim=\dimen150
+\l__xeCJK_bound_punct_width_dim=\dimen151
+\l__xeCJK_bound_margin_width_dim=\dimen152
+\l__xeCJK_margin_minimum_dim=\dimen153
+\l__xeCJK_kerning_total_width_dim=\dimen154
+\l__xeCJK_same_align_margin_dim=\dimen155
+\l__xeCJK_different_align_margin_dim=\dimen156
+\l__xeCJK_kerning_margin_width_dim=\dimen157
+\l__xeCJK_kerning_margin_minimum_dim=\dimen158
+\l__xeCJK_bound_dim=\dimen159
+\l__xeCJK_reverse_bound_dim=\dimen160
+\l__xeCJK_minimum_bound_dim=\dimen161
+\l__xeCJK_kerning_margin_dim=\dimen162
+\l__xeCJK_original_margin_dim=\dimen163
+\g__xeCJK_family_int=\count183
+\l__xeCJK_fam_int=\count184
+\g__xeCJK_fam_allocation_int=\count185
+\l__xeCJK_verb_case_int=\count186
+\l__xeCJK_verb_exspace_skip=\skip55
+
+(F:\latex\tex\latex\fontspec\fontspec.sty
+Package: fontspec 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTeX
+
+(F:\latex\tex\latex\fontspec\fontspec-xetex.sty
+Package: fontspec-xetex 2019/03/15 v2.7c Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count187
+\l__fontspec_language_int=\count188
+\l__fontspec_strnum_int=\count189
+\l__fontspec_tmp_int=\count190
+\l__fontspec_tmpa_int=\count191
+\l__fontspec_tmpb_int=\count192
+\l__fontspec_tmpc_int=\count193
+\l__fontspec_em_int=\count194
+\l__fontspec_emdef_int=\count195
+\l__fontspec_strong_int=\count196
+\l__fontspec_strongdef_int=\count197
+\l__fontspec_tmpa_dim=\dimen164
+\l__fontspec_tmpb_dim=\dimen165
+\l__fontspec_tmpc_dim=\dimen166
+
+(F:\latex\tex\latex\base\fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+ (F:\latex\tex\latex\base\tuenc.def
+File: tuenc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TU on input line 82.
+))
+(F:\latex\tex\latex\fontspec\fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 4051.
+LaTeX Info: Redefining \slshape on input line 4056.
+LaTeX Info: Redefining \scshape on input line 4061.
+LaTeX Info: Redefining \upshape on input line 4066.
+LaTeX Info: Redefining \em on input line 4096.
+LaTeX Info: Redefining \emph on input line 4121.
+Requested font "[lmroman10-bold]:mapping=tex-text;" at 10.0pt
+ -> F:/latex/fonts/opentype/public/lm/lmroman10-bold.otf
+Requested font "[lmroman10-italic]:mapping=tex-text;" at 10.0pt
+ -> F:/latex/fonts/opentype/public/lm/lmroman10-italic.otf
+))
+(F:\latex\tex\xelatex\xecjk\xeCJK.cfg
+File: xeCJK.cfg 2019/04/07 v3.7.2 Configuration file for xeCJK package
+))
+(F:\latex\tex\latex\graphics\graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(F:\latex\tex\latex\graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(F:\latex\tex\latex\graphics\graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (F:\latex\tex\latex\graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (F:\latex\tex\latex\graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 99.
+
+(F:\latex\tex\latex\graphics-def\xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen167
+\Gin@req@width=\dimen168
+)
+(C:\CTEX\MiKTeX\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen169
+\lightrulewidth=\dimen170
+\cmidrulewidth=\dimen171
+\belowrulesep=\dimen172
+\belowbottomsep=\dimen173
+\aboverulesep=\dimen174
+\abovetopsep=\dimen175
+\cmidrulesep=\dimen176
+\cmidrulekern=\dimen177
+\defaultaddspace=\dimen178
+\@cmidla=\count198
+\@cmidlb=\count199
+\@aboverulesep=\dimen179
+\@belowrulesep=\dimen180
+\@thisruleclass=\count266
+\@lastruleclass=\count267
+\@thisrulewidth=\dimen181
+)
+(C:\CTEX\MiKTeX\tex\latex\floatrow\floatrow.sty
+Package: floatrow 2008/08/02 v0.3b floatrow: float package extension
+
+(C:\CTEX\MiKTeX\tex\latex\caption\caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen182
+\captionmargin@=\dimen183
+\captionwidth=\dimen184
+\caption@tempdima=\dimen185
+\caption@indent=\dimen186
+\caption@parindent=\dimen187
+\caption@hangindent=\dimen188
+)
+\c@float@type=\count268
+\float@exts=\toks15
+\float@box=\box46
+\@floatcapt=\box47
+Package floatrow Info: Modified float package code loaded on input line 455.
+Package floatrow Info: Modified rotfloat package code loaded on input line 473.
+
+\FR@everyfloat=\toks16
+\flrow@foot=\insert252
+\FB@wd=\dimen189
+\FBo@wd=\dimen190
+\FBc@wd=\dimen191
+\FBo@ht=\skip56
+\FBc@ht=\skip57
+\FBf@ht=\skip58
+\FBo@max=\skip59
+\FBc@max=\skip60
+\FBf@max=\skip61
+\c@FBl@b=\count269
+\floatbox@depth=\count270
+\c@FRobj=\count271
+\c@FRsobj=\count272
+\Xhsize=\skip62
+\sXhsize=\skip63
+\Zhsize=\skip64
+\sZhsize=\skip65
+\flrow@rowbox=\box48
+\FR@Zunitlength=\dimen192
+\c@FBcnt=\count273
+\FPOScnt=\count274
+\LTleft=\skip66
+\LTright=\skip67
+\LTleft=\skip68
+\LTright=\skip69
+\flrow@types=\toks17
+)
+(F:\latex\tex\latex\tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(F:\latex\tex\latex\geometry\geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(F:\latex\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(F:\latex\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(F:\latex\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count275
+\Gm@cntv=\count276
+\c@Gm@tempcnt=\count277
+\Gm@bindingoffset=\dimen193
+\Gm@wd@mp=\dimen194
+\Gm@odd@mp=\dimen195
+\Gm@even@mp=\dimen196
+\Gm@layoutwidth=\dimen197
+\Gm@layoutheight=\dimen198
+\Gm@layouthoffset=\dimen199
+\Gm@layoutvoffset=\dimen256
+\Gm@dimlist=\toks18
+
+(F:\latex\tex\xelatex\xetexconfig\geometry.cfg))
+(C:\CTEX\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+\fancy@headwidth=\skip70
+\f@ncyO@elh=\skip71
+\f@ncyO@erh=\skip72
+\f@ncyO@olh=\skip73
+\f@ncyO@orh=\skip74
+\f@ncyO@elf=\skip75
+\f@ncyO@erf=\skip76
+\f@ncyO@olf=\skip77
+\f@ncyO@orf=\skip78
+)
+
+Package xeCJK Warning: Undefined CJK default family `\CJKrmdefault' has been
+(xeCJK)                replaced by `song'.
+(xeCJK)                
+(xeCJK)                Try to use `\setCJKmainfont[...]{...}' to define it.
+
+Requested font "SimSun/OT" at 9.99997pt
+ -> C:/WINDOWS/Fonts/simsun.ttc
+Requested font "SimSun/OT" at 10.0pt
+ -> C:/WINDOWS/Fonts/simsun.ttc
+Requested font "SimSun/OT" at 10.00002pt
+ -> C:/WINDOWS/Fonts/simsun.ttc
+Requested font "SimSun/BI/OT" at 10.00002pt
+ -> C:/WINDOWS/Fonts/simsun.ttc
+
+Package fontspec Info: Could not resolve font "SimSun/BI" (it probably doesn't
+(fontspec)             exist).
+
+Requested font "SimSun/B/OT" at 10.00002pt
+ -> C:/WINDOWS/Fonts/simsun.ttc
+
+Package fontspec Info: Could not resolve font "SimSun/B" (it probably doesn't
+(fontspec)             exist).
+
+Requested font "SimSun/I/OT" at 10.00002pt
+ -> C:/WINDOWS/Fonts/simsun.ttc
+
+Package fontspec Info: Could not resolve font "SimSun/I" (it probably doesn't
+(fontspec)             exist).
+
+
+Package fontspec Info: Font family 'SimSun(0)' created for font 'SimSun' with
+(fontspec)             options [Script={CJK}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"SimSun/OT:script=hani;language=DFLT;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
+(caogao.aux
+
+LaTeX Warning: Label `fig:label' multiply defined.
+
+
+LaTeX Warning: Label `fig:label' multiply defined.
+
+
+LaTeX Warning: Label `fig:label' multiply defined.
+
+
+LaTeX Warning: Label `bibitem3' multiply defined.
+
+)
+\openout1 = `caogao.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 36.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 36.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 36.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 36.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 36.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 36.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 36.
+LaTeX Font Info:    Redeclaring math accent \check on input line 36.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 36.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 36.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 36.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 36.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 36.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 36.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 36.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 36.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 36.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 36.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/lmr/m/n --> TU/lmr/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/lmr/bx/it on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 36.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ (F:\latex\tex\latex\graphics\color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(F:\latex\tex\latex\graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 147.
+)
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Requested font "[lmroman12-regular]:mapping=tex-text;" at 14.4pt
+ -> F:/latex/fonts/opentype/public/lm/lmroman12-regular.otf
+Requested font "[lmroman12-bold]:mapping=tex-text;" at 14.4pt
+ -> F:/latex/fonts/opentype/public/lm/lmroman12-bold.otf
+
+LaTeX Font Warning: Font shape `TU/SimSun(0)/bx/n' undefined
+(Font)              using `TU/SimSun(0)/m/n' instead on input line 38.
+
+Requested font "SimSun/OT:script=hani;language=DFLT;" at 14.4pt
+ -> C:/WINDOWS/Fonts/simsun.ttc
+(caogao.toc
+Requested font "SimSun/OT:script=hani;language=DFLT;" at 10.0pt
+ -> C:/WINDOWS/Fonts/simsun.ttc
+Requested font "[lmroman7-regular]:mapping=tex-text;" at 7.0pt
+ -> F:/latex/fonts/opentype/public/lm/lmroman7-regular.otf
+Requested font "[lmroman5-regular]:mapping=tex-text;" at 5.0pt
+ -> F:/latex/fonts/opentype/public/lm/lmroman5-regular.otf
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `caogao.toc'.
+
+ [1
+
+]
+Requested font "[lmroman12-regular]:mapping=tex-text;" at 12.0pt
+ -> F:/latex/fonts/opentype/public/lm/lmroman12-regular.otf
+Requested font "[lmroman12-bold]:mapping=tex-text;" at 12.0pt
+ -> F:/latex/fonts/opentype/public/lm/lmroman12-bold.otf
+Requested font "SimSun/OT:script=hani;language=DFLT;" at 12.0pt
+ -> C:/WINDOWS/Fonts/simsun.ttc
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.68 ^^I^^I^^Ix_
+                1& 三者保险额\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.68 ^^I^^I^^Ix_1&
+                   三者保险额\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.68 ^^I^^I^^Ix_1&
+                   三者保险额\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.68 ^^I^^I^^Ix_1&
+                   三者保险额\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 ^^I^^I^^Ix_
+                2& 签单保费\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.69 ^^I^^I^^Ix_2&
+                   签单保费\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.69 ^^I^^I^^Ix_2&
+                   签单保费\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.69 ^^I^^I^^Ix_2&
+                   签单保费\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.70 ^^I^^I^^Ix_
+                3& 渠道 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.70 ^^I^^I^^Ix_3&
+                   渠道 \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.70 ^^I^^I^^Ix_3&
+                   渠道 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.70 ^^I^^I^^Ix_3&
+                   渠道 \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.71 ^^I^^I^^Ix_
+                4& 是否投保车损\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.71 ^^I^^I^^Ix_4&
+                   是否投保车损\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.71 ^^I^^I^^Ix_4&
+                   是否投保车损\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.71 ^^I^^I^^Ix_4&
+                   是否投保车损\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.72 ^^I^^I^^Ix_
+                5& 是否投保盗抢 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.72 ^^I^^I^^Ix_5&
+                   是否投保盗抢 \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.72 ^^I^^I^^Ix_5&
+                   是否投保盗抢 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.72 ^^I^^I^^Ix_5&
+                   是否投保盗抢 \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.73 ^^I^^I^^Ix_
+                6& 是否投保车上人员\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.73 ^^I^^I^^Ix_6&
+                   是否投保车上人员\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.73 ^^I^^I^^Ix_6&
+                   是否投保车上人员\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.73 ^^I^^I^^Ix_6&
+                   是否投保车上人员\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.74 ^^I^^I^^Ix_
+                7& 投保类别 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.74 ^^I^^I^^Ix_7&
+                   投保类别 \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.74 ^^I^^I^^Ix_7&
+                   投保类别 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.74 ^^I^^I^^Ix_7&
+                   投保类别 \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.75 ^^I^^I^^Ix_
+                8& 是否本省车牌\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.75 ^^I^^I^^Ix_8&
+                   是否本省车牌\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.75 ^^I^^I^^Ix_8&
+                   是否本省车牌\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.75 ^^I^^I^^Ix_8&
+                   是否本省车牌\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.76 ^^I^^I^^Ix_
+                9& 使用性质\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.76 ^^I^^I^^Ix_9&
+                   使用性质\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.76 ^^I^^I^^Ix_9&
+                   使用性质\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.76 ^^I^^I^^Ix_9&
+                   使用性质\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.77 ^^I^^I^^Ix_
+                {10}& 车辆种类\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.77 ^^I^^I^^Ix_{10}&
+                      车辆种类\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.77 ^^I^^I^^Ix_{10}&
+                      车辆种类\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.77 ^^I^^I^^Ix_{10}&
+                      车辆种类\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.78 ^^I^^I^^Ix_
+                {11}& 车辆用途\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.78 ^^I^^I^^Ix_{11}&
+                      车辆用途\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.78 ^^I^^I^^Ix_{11}&
+                      车辆用途\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.78 ^^I^^I^^Ix_{11}&
+                      车辆用途\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.79 ^^I^^I^^Ix_
+                {12}& 险种\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.79 ^^I^^I^^Ix_{12}&
+                      险种\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.79 ^^I^^I^^Ix_{12}&
+                      险种\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.79 ^^I^^I^^Ix_{12}&
+                      险种\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.80 ^^I^^I^^Ix_
+                {13}& 风险类别\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.80 ^^I^^I^^Ix_{13}&
+                      风险类别\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.80 ^^I^^I^^Ix_{13}&
+                      风险类别\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.80 ^^I^^I^^Ix_{13}&
+                      风险类别\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.81 ^^I^^I^^Ix_
+                {14}& 客户类别\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.81 ^^I^^I^^Ix_{14}&
+                      客户类别\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.81 ^^I^^I^^Ix_{14}&
+                      客户类别\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.81 ^^I^^I^^Ix_{14}&
+                      客户类别\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.82 ^^I^^I^^Ix_
+                {15}& 被保险人性别\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.82 ^^I^^I^^Ix_{15}&
+                      被保险人性别\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.82 ^^I^^I^^Ix_{15}&
+                      被保险人性别\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.82 ^^I^^I^^Ix_{15}&
+                      被保险人性别\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.83 ^^I^^I^^Ix_
+                {16}& NCD \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.83 ^^I^^I^^Ix_{16}&
+                      NCD \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.83 ^^I^^I^^Ix_{16}&
+                      NCD \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.83 ^^I^^I^^Ix_{16}&
+                      NCD \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.84 ^^I^^I^^Ix_
+                {17}& 车龄\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.84 ^^I^^I^^Ix_{17}&
+                      车龄\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.84 ^^I^^I^^Ix_{17}&
+                      车龄\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.84 ^^I^^I^^Ix_{17}&
+                      车龄\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.85 ^^I^^I^^Ix_
+                {18}& 被保险人年龄 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.85 ^^I^^I^^Ix_{18}&
+                      被保险人年龄 \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.85 ^^I^^I^^Ix_{18}&
+                      被保险人年龄 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.85 ^^I^^I^^Ix_{18}&
+                      被保险人年龄 \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.86 ^^I^^I^^Ix_
+                {19}& 立案件数 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.86 ^^I^^I^^Ix_{19}&
+                      立案件数 \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.86 ^^I^^I^^Ix_{19}&
+                      立案件数 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.86 ^^I^^I^^Ix_{19}&
+                      立案件数 \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.87 ^^I^^I^^Ix_
+                {20}& 已决赔款 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \endtemplate 
+l.87 ^^I^^I^^Ix_{20}&
+                      已决赔款 \\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.87 ^^I^^I^^Ix_{20}&
+                      已决赔款 \\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.87 ^^I^^I^^Ix_{20}&
+                      已决赔款 \\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Misplaced \noalign.
+\bottomrule ->\noalign 
+                       {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global...
+l.90 ^^I^^I^^I\bottomrule
+                          %添加表格底部粗线
+I expect to see \noalign only after the \cr of
+an alignment. Proceed, and I'll ignore this case.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.91 ^^I^^I\end
+               {tabular} $$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.91 ^^I^^I\end
+               {tabular} $$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.91 ^^I^^I\end
+               {tabular} $$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing \cr inserted.
+<inserted text> 
+                \cr 
+l.91 ^^I^^I\end
+               {tabular} $$
+I'm guessing that you meant to end an alignment here.
+
+! Missing { inserted.
+<inserted text> 
+                {
+l.91 ^^I^^I\end
+               {tabular} $$
+I've put in what seems to be necessary to fix
+the current column of the current alignment.
+Try to go on, since this might almost work.
+
+! Misplaced \crcr.
+\endtabular ->\crcr 
+                    \egroup \egroup $\egroup 
+l.91 ^^I^^I\end{tabular}
+                         $$
+I can't figure out why you would want to use a tab mark
+or \cr or \span just now. If something like a right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Extra }, or forgotten $.
+\endtabular ->\crcr \egroup 
+                            \egroup $\egroup 
+l.91 ^^I^^I\end{tabular}
+                         $$
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra }, or forgotten $.
+\endtabular ->\crcr \egroup \egroup 
+                                    $\egroup 
+l.91 ^^I^^I\end{tabular}
+                         $$
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+
+ []
+
+File: tree.png Graphic file (type bmp)
+<tree.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+
+ []
+
+
+! LaTeX Error: Environment equation* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 ^^I^^I^^I$$ \begin{equation*}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \eqno 
+l.132 ^^I^^I^^I\right \eqno
+                           (7)
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.132 ^^I^^I^^I\right \eqno
+                           (7)
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: \begin{document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133 ^^I^^I^^I\end{equation*}
+                               $$
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.133 ^^I^^I^^I\end{equation*}
+                               $$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.133 ^^I^^I^^I\end{equation*}
+                               $$
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.133 ^^I^^I^^I\end{equation*}
+                               $$
+Things are pretty mixed up, but I think the worst is over.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.134 ^^I^^I^^I\paragraph
+                         {}拉格朗日”对偶函数“(dual function)$\Ga...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Display math should end with $$.
+<to be read again> 
+                   \par 
+l.134 ^^I^^I^^I\paragraph
+                         {}拉格朗日”对偶函数“(dual function)$\Ga...
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+ []
+
+
+! LaTeX Error: Environment equation* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.135 ^^I^^I^^I$$ \begin{equation*}
+                                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment aligned undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.136 ^^I^^I^^I\begin{aligned}
+                              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Misplaced alignment tab character &.
+l.137 ^^I^^I^^I\Gamma(\vec \lambda, \vec \mu) &
+                                               = inf_{x\in D}L(\vec x, \vec ...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+<recently read> &
+                 
+l.138 ^^I^^I^^I&
+                =inf_{x\in D}(f(\vec x)+\sum_{i=1}^m\lambda_ih_i(\vec x)+\su...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+! LaTeX Error: \begin{document} ended by \end{aligned}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 ^^I^^I^^I\end{aligned}
+                             \eqno(8)
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.139 ^^I^^I^^I\end{aligned} \eqno
+                                  (8)
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: \begin{document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 ^^I^^I^^I\end{equation*}
+                              ^^I$$
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.140 ^^I^^I^^I\end{equation*}
+                              ^^I$$
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Display math should end with $$.
+<to be read again> 
+                   \endgroup 
+l.140 ^^I^^I^^I\end{equation*}
+                              ^^I$$
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+[4]
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.140 ^^I^^I^^I\end{equation*}
+                              ^^I$$
+Things are pretty mixed up, but I think the worst is over.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.141 ^^I^^I\subsection
+                       {GradientBoostingClassifier}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Display math should end with $$.
+<to be read again> 
+                   \par 
+l.141 ^^I^^I\subsection
+                       {GradientBoostingClassifier}
+The `$' that I just saw supposedly matches a previous `$$'.
+So I shall assume that you typed `$$' both times.
+
+File: transform.png Graphic file (type bmp)
+<transform.png>
+File: transform1.png Graphic file (type bmp)
+<transform1.png>
+
+Overfull \hbox (46.35977pt too wide) in paragraph at lines 167--168
+ [][] 
+ []
+
+[5]
+File: cheji.png Graphic file (type bmp)
+<cheji.png>
+File: jingji.png Graphic file (type bmp)
+<jingji.png>
+File: 2.png Graphic file (type bmp)
+<2.png>
+File: car_usage.png Graphic file (type bmp)
+<car_usage.png>
+File: model.png Graphic file (type bmp)
+<model.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--206
+
+ []
+
+[6] [7]
+File: 1.png Graphic file (type bmp)
+<1.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--212
+
+ []
+
+File: lr1.png Graphic file (type bmp)
+<lr1.png>
+File: lr2.png Graphic file (type bmp)
+<lr2.png>
+File: gd1.png Graphic file (type bmp)
+<gd1.png>
+[8] [9]
+
+! LaTeX Error: Environment equation* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.237 ^^I^^I^^I$$ s.t.\begin{equation*}
+                                       
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing delimiter (. inserted).
+<to be read again> 
+                   \def 
+l.248 ^^I^^I^^I\end{equation*}
+                               $$
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+
+! LaTeX Error: \begin{document} ended by \end{equation*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.248 ^^I^^I^^I\end{equation*}
+                               $$
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.250 ...��确定了我们的优惠方案(假若x_
+                                                  1从10000变成了20000，...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no 从 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 变 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 成 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 了 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 则 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 们 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 可 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 以 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 认 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 为 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 对 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 该 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 类 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 别 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 用 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 户 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 优 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 惠 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 方 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 案 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 在 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 签 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 单 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 保 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 费 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 变 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 情 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 况 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 下 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 我 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 们 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 可 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 以 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 白 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 送 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 该 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 类 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 顾 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 客 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 比 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 原 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 先 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 多 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 出 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 块 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 险 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 保 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 额 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 其 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 他 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 变 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 量 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 改 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 变 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 同 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 理 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 可 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 得 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 。 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 需 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 要 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 注 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 意 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 是 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 若 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 取 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 得 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 最 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 优 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 解 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 情 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 况 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 下 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 自 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 变 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 量 in font [lmroman10-regular]:mapping=tex-text;!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.250 ...��取得最优解的情况下自变量$x_
+                                                  1$到$x_6$中存在非整�...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+File: result.png Graphic file (type bmp)
+<result.png>
+
+Overfull \hbox (52.94756pt too wide) in paragraph at lines 248--254
+\TU/SimSun(0)/m/n/10 值 即 确 定 了 我 们 的 优 惠 方 案 \TU/lmr/m/n/10 (\TU/SimSun(0)/m/n/
+10 假 若 \TU/lmr/m/n/10 x$[][]\OT1/cmr/m/n/10 10000[][][]20000[][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[]10000[][][][][][][][][][][][][][][][][])[][][][][][][][][][][][][][][][][][][
+][][]$\TU/lmr/m/n/10 x$[]$
+ []
+
+File: lr4.png Graphic file (type bmp)
+<lr4.png>
+File: dt.png Graphic file (type bmp)
+<dt.png>
+[10]
+File: gd.png Graphic file (type bmp)
+<gd.png>
+ [11]
+File: lr.png Graphic file (type bmp)
+<lr.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 274--279
+
+ []
+
+File: decision_tree.png Graphic file (type bmp)
+<decision_tree.png>
+File: gbc.png Graphic file (type bmp)
+<gbc.png>
+File: lr6.png Graphic file (type bmp)
+<lr6.png>
+File: decisiontree1.png Graphic file (type bmp)
+<decisiontree1.png>
+File: gbc1.png Graphic file (type bmp)
+<gbc1.png>
+[12]
+File: 111.png Graphic file (type bmp)
+<111.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 302--306
+
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.313 ...月下灵 https://blog.csdn.net/xiaolong_
+                                                  4_2/article/details/80879337
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Double subscript.
+l.313 ...�下灵 https://blog.csdn.net/xiaolong_4_
+                                                  2/article/details/80879337
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+! LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.314 ^^I^^I^^I\bibitem{bibitem3}
+                                    作者：灵夕丨月下灵 https://blog...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.314 ^^I^^I^^I\bibitem{bibitem3}
+                                    作者：灵夕丨月下灵 https://blog...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.314 ^^I^^I^^I\bibitem{bibitem3}
+                                    作者：灵夕丨月下灵 https://blog...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Double subscript.
+l.314 ...�下灵 https://blog.csdn.net/xiaolong_4_
+                                                  2/article/details/80879337
+I treat `x_1_2' essentially like `x_1{}_2'.
+
+
+! LaTeX Error: Command \item invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.315 ^^I^^I^^I\bibitem{bibitem4}
+                                    作者：人民网 http://sh.people.com....
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.315 ^^I^^I^^I\bibitem{bibitem4}
+                                    作者：人民网 http://sh.people.com....
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.315 ^^I^^I^^I\bibitem{bibitem4}
+                                    作者：人民网 http://sh.people.com....
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no 作 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 者 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ： in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 灵 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 夕 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 丨 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 月 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 下 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 灵 in font [lmroman10-regular]:mapping=tex-text;!
+
+Underfull \hbox (badness 3219) in paragraph at lines 313--315
+[]\TU/SimSun(0)/m/n/10 作 者：|  灵 夕 丨 月 下 灵 \TU/lmr/m/n/10 https://blog.csdn.net/
+xiaolong$[][]\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 article\OT1/cmr/m/n/10 /\OML/cmm
+/m/it/10 details\OT1/cmr/m/n/10 /80879337[][][][][][][][][]\OML/cmm/m/it/10 htt
+ps \OT1/cmr/m/n/10 :
+ []
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.315 ^^I^^I^^I\bibitem{bibitem4}
+                                    作者：人民网 http://sh.people.com....
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+[13]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.321 ^^I^^I\begin
+                  {python}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment python undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.321 ^^I^^I\begin{python}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.328 ^^I^^I^^Idata = pd.read_
+                              excel("zgl.xlsx")
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.329 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.330 ^^I^^I^^I#
+                分类变量
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.334 ^^I^^I^^I#
+                其余变量
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.340 ^^I^^I^^I#
+                data = data.drop(columns=[])
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.347 ^^I^^I^^I#
+                进行数据预处理,对分类变量和普通变量分别�...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.349 ^^I^^I^^Iss_
+                  x = preprocessing.StandardScaler()
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.353 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (3.39415pt too wide) in paragraph at lines 347--353
+\TU/lmr/m/n/10 processing ss$[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 preprocessin
+g:StandardScaler\OT1/cmr/m/n/10 ()\OML/cmm/m/it/10 oneH[]nc \OT1/cmr/m/n/10 = \
+OML/cmm/m/it/10 preprocessing:OneHotEncoder\OT1/cmr/m/n/10 ()\OML/cmm/m/it/10 X
+other \OT1/cmr/m/n/10 =
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.357 ^^I^^I^^I#
+                划分训练集和验证集
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.358 ^^I^^I^^Ifrom sklearn.cross_
+                                  validation import train_test_split,cross_v...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.360 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (58.96855pt too wide) in paragraph at lines 357--360
+[]\TU/SimSun(0)/m/n/10 划 分 训 练 集 和 验 证 集 \TU/lmr/m/n/10 from sklearn.cross$[]\O
+ML/cmm/m/it/10 alidationimporttrain[]est[]plit; cross[]al[]coreX[]rain; X[]est;
+ Y[]rain; Y[]est \OT1/cmr/m/n/10 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.361 ...om sklearn.metrics import classification_
+                                                  report
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.364 ^^I^^I^^I#
+                scores = cross_val_score(model,X_train,Y_train,cv=5).ravel()
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.365 ^^I^^I^^I#
+                score = np.mean(scores)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.369 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (94.35619pt too wide) in paragraph at lines 361--369
+[]\TU/lmr/m/n/10 from sklearn.metrics import classification$[]\OML/cmm/m/it/10 
+eportdeftry[]ifferent[]ethod\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 model; name\OT1/c
+mr/m/n/10 ) : \OML/cmm/m/it/10 model:fit\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X[]ra
+in; Y[]rain\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 scores \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (73.28337pt too wide) in paragraph at lines 361--369
+\OML/cmm/m/it/10 cross[]al[]core\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 model; X[]rai
+n; Y[]rain; cv \OT1/cmr/m/n/10 = 5)\OML/cmm/m/it/10 :ravel\OT1/cmr/m/n/10 ()\OM
+L/cmm/m/it/10 score \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 np:mean\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 scores\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 print\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 model:predict[]roba\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X[]est\OT
+1/cmr/m/n/10 ))[]\OML/cmm/m/it/10 score \OT1/cmr/m/n/10 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.371 ^^I^^I^^Iplt.scatter(np.arange(100),  Y_
+                                              test[:100],  label='true value')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.373 ^^I^^I^^I#
+                plt.title(name + ' score: %f'%score)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.376 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (23.12726pt too wide) in paragraph at lines 370--376
+[]\TU/lmr/m/n/10 plt.figure() plt.scatter(np.arange(100), Y$[]\OML/cmm/m/it/10 
+est\OT1/cmr/m/n/10 [: 100]\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[] \OML/cmm
+/m/it/10 truevalue[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:scatter\OT1/cmr/m/n/1
+0 (\OML/cmm/m/it/10 np:arange\OT1/cmr/m/n/10 (100)\OML/cmm/m/it/10 ; result\OT1
+/cmr/m/n/10 [:
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.377 ^^I^^I^^Iprint(classification_
+                                    report(Y_test, result, target_names=['�...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.378 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 续 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 保 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 续 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 保 in font [lmroman10-regular]:mapping=tex-text;!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.380 ^^I^^I^^Ifrom sklearn.linear_
+                                   model import Perceptron
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.381 ^^I^^I^^I#
+                http://scikit-learn.org/stable/modules/generated/sklearn.lin...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.381 ...ted/sklearn.linear_model.Perceptron.html#
+                                                  sklearn.linear_model.Perce...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.383 ^^I^^I^^I#
+                try_different_method(ppn, 'perceptron')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.384 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (320.64224pt too wide) in paragraph at lines 380--384
+[]\TU/lmr/m/n/10 from sklearn.linear$[]\OML/cmm/m/it/10 odelimportPerceptronhtt
+p \OT1/cmr/m/n/10 : //\OML/cmm/m/it/10 scikit \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/i
+t/10 learn:org\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 stable\OT1/cmr/m/n/10 /\OML/cmm
+/m/it/10 modules\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 generated\OT1/cmr/m/n/10 /\OM
+L/cmm/m/it/10 sklearn:linear[]odel:Perceptron:htmlsklearn:linear[]odel:Perceptr
+onppn \OT1/cmr/m/n/10 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.385 ^^I^^I^^Ifrom sklearn.linear_
+                                   model import LogisticRegression
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.386 ^^I^^I^^I#
+                http://scikit-learn.org/stable/modules/generated/sklearn.lin...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.386 ...arn.linear_model.LogisticRegression.html#
+                                                  sklearn.linear_model.Logis...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.389 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (421.59167pt too wide) in paragraph at lines 385--389
+[]\TU/lmr/m/n/10 from sklearn.linear$[]\OML/cmm/m/it/10 odelimportLogisticRegre
+ssionhttp \OT1/cmr/m/n/10 : //\OML/cmm/m/it/10 scikit \OMS/cmsy/m/n/10 ^^@ \OML
+/cmm/m/it/10 learn:org\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 stable\OT1/cmr/m/n/10 /
+\OML/cmm/m/it/10 modules\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 generated\OT1/cmr/m/n
+/10 /\OML/cmm/m/it/10 sklearn:linear[]odel:LogisticRegression:htmlsklearn:linea
+r[]odel:LogisticRegressionlr \OT1/cmr/m/n/10 =
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.392 ^^I^^I^^I#
+                http://scikit-learn.org/stable/modules/generated/sklearn.svm...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.392 ...e/modules/generated/sklearn.svm.SVC.html#
+                                                  sklearn.svm.SVC
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.393 ...svm = SVC(kernel='linear', C=1.0, random_
+                                                  state=0,probability=True)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.394 ^^I^^I^^I#
+                try_different_method(svm, 'svc')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.395 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (81.06456pt too wide) in paragraph at lines 391--395
+[]\TU/lmr/m/n/10 from sklearn.svm import SVC http://scikit-learn.org/stable/mod
+ules/generated/sklearn.svm.SVC.htmlsklearn.svm.SVC
+ []
+
+
+Overfull \hbox (4.76822pt too wide) in paragraph at lines 391--395
+\TU/lmr/m/n/10 svm = SVC(kernel=’linear’, C=1.0, random$[]\OML/cmm/m/it/10 tate
+ \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 ; probability \OT1/cmr/m/n/10 = \OML/cmm/m
+/it/10 True\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 try[]ifferent[]ethod\OT1/cmr/m/n/1
+0 (\OML/cmm/m/it/10 svm;[] svc[]\OT1/cmr/m/n/10 )$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.397 ^^I^^I^^I#
+                http://scikit-learn.org/stable/modules/generated/sklearn.tre...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.397 ...sklearn.tree.DecisionTreeClassifier.html#
+                                                  sklearn.tree.DecisionTreeC...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.398 ...nTreeClassifier(criterion='entropy', max_
+                                                  depth=10, random_state=0)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.400 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (304.53569pt too wide) in paragraph at lines 396--400
+[]\TU/lmr/m/n/10 from sklearn.tree import DecisionTreeClassifier http://scikit-
+learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.htmlskle
+arn.tree.DecisionTreeClassifier
+ []
+
+
+Overfull \hbox (92.21458pt too wide) in paragraph at lines 396--400
+\TU/lmr/m/n/10 tree = DecisionTreeClassifier(criterion=’entropy’, max$[]\OML/cm
+m/m/it/10 epth \OT1/cmr/m/n/10 = 10\OML/cmm/m/it/10 ; random[]tate \OT1/cmr/m/n
+/10 = 0)\OML/cmm/m/it/10 try[]ifferent[]ethod\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 
+tree;[] decisionTree[]\OT1/cmr/m/n/10 )$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.402 ...mForestClassifier(criterion='entropy', n_
+                                                  estimators=10, random_stat...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.403 ^^I^^I^^I#
+                http://scikit-learn.org/stable/modules/generated/sklearn.ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.403 ...arn.ensemble.RandomForestClassifier.html#
+                                                  sklearn.ensemble.RandomFor...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.404 ^^I^^I^^I#
+                criterion特征选择度量，n_estimators随机森林中单...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.406 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no 特 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 征 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 选 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 择 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 度 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 量 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 随 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 机 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 森 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 林 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 中 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 单 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 棵 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 树 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 数 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 目 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 设 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 置 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 并 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 行 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 成 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 树 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 模 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 型 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 得 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 数 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 目 in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (24.47568pt too wide) in paragraph at lines 401--406
+[]\TU/lmr/m/n/10 from sklearn.ensemble import RandomForestClassifier forest = R
+andomForestClassifier(criterion=’entropy’,
+ []
+
+
+Overfull \hbox (811.43498pt too wide) in paragraph at lines 401--406
+\TU/lmr/m/n/10 n$[]\OML/cmm/m/it/10 stimators \OT1/cmr/m/n/10 = 10\OML/cmm/m/it
+/10 ; random[]tate \OT1/cmr/m/n/10 = 1\OML/cmm/m/it/10 ; n[]obs \OT1/cmr/m/n/10
+ = 2)\OML/cmm/m/it/10 http \OT1/cmr/m/n/10 : //\OML/cmm/m/it/10 scikit \OMS/cms
+y/m/n/10 ^^@ \OML/cmm/m/it/10 learn:org\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 stable
+\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 modules\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 gene
+rated\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 sklearn:ensemble:RandomForestClassifier:
+htmlsklearn:ensemble:RandomForestClassifiercriterion[][][][][][][]n[]stimators[
+][][][][][][][][][][]n[]obs[][][][][][][][][][][][]try[]ifferent[]ethod\OT1/cmr
+/m/n/10 (\OML/cmm/m/it/10 forest;[] RandomForest[]\OT1/cmr/m/n/10 )$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.409 ^^I^^I^^Itry_
+                   different_method(ExtraTree, 'ExtraTree')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.410 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (106.50327pt too wide) in paragraph at lines 407--410
+[]\TU/lmr/m/n/10 from sklearn.tree import ExtraTreeClassifier ExtraTree = Extra
+TreeClassifier() try$[]\OML/cmm/m/it/10 ifferent[]ethod\OT1/cmr/m/n/10 (\OML/cm
+m/m/it/10 ExtraTree;[] ExtraTree[]\OT1/cmr/m/n/10 )$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.413 ^^I^^I^^Itry_
+                   different_method(Bagging, 'Bagging')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.414 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (82.0354pt too wide) in paragraph at lines 411--414
+[]\TU/lmr/m/n/10 from sklearn.ensemble import BaggingClassifier Bagging = Baggi
+ngClassifier() try$[]\OML/cmm/m/it/10 ifferent[]ethod\OT1/cmr/m/n/10 (\OML/cmm/
+m/it/10 Bagging;[] Bagging[]\OT1/cmr/m/n/10 )$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.417 ^^I^^I^^Itry_
+                   different_method(gbc, 'gbc')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: \begin{document} ended by \end{python}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.418 ^^I^^I\end{python}
+                        
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.418 ^^I^^I\end{python}
+                        
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (96.63963pt too wide) in paragraph at lines 415--419
+[]\TU/lmr/m/n/10 from sklearn.ensemble import GradientBoostingClassifier gbc = 
+GradientBoostingClassifier() try$[]\OML/cmm/m/it/10 ifferent[]ethod\OT1/cmr/m/n
+/10 (\OML/cmm/m/it/10 gbc;[] gbc[]\OT1/cmr/m/n/10 )$ 
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.420 ^^I^^I\begin
+                  {*sec.py*}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment *sec.py* undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.420 ^^I^^I\begin{*sec.py*}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.427 ^^I^^I^^Idata = pd.read_
+                              excel("C:\\Users\\artemis\\Desktop\\认证杯\...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.428 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no 认 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 证 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 杯 in font [lmroman10-regular]:mapping=tex-text;!
+! You can't use `macro parameter character #' in vertical mode.
+l.430 ^^I^^I^^I#
+                分类变量
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.434 ^^I^^I^^I#
+                其余变量
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.439 ^^I^^I^^I#
+                print(Y)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.440 ^^I^^I^^I#
+                data = data.drop(columns=[])
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+[14]
+! You can't use `macro parameter character #' in vertical mode.
+l.447 ^^I^^I^^I#
+                进行数据预处理,对分类变量和普通变量分别�...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.449 ^^I^^I^^Iss_
+                  x = preprocessing.StandardScaler()
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.453 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (3.39415pt too wide) in paragraph at lines 447--453
+\TU/lmr/m/n/10 processing ss$[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 preprocessin
+g:StandardScaler\OT1/cmr/m/n/10 ()\OML/cmm/m/it/10 oneH[]nc \OT1/cmr/m/n/10 = \
+OML/cmm/m/it/10 preprocessing:OneHotEncoder\OT1/cmr/m/n/10 ()\OML/cmm/m/it/10 X
+other \OT1/cmr/m/n/10 =
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.457 ^^I^^I^^I#
+                划分训练集和验证集
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.458 ^^I^^I^^Ifrom sklearn.cross_
+                                  validation import train_test_split,cross_v...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.460 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (58.96855pt too wide) in paragraph at lines 457--460
+[]\TU/SimSun(0)/m/n/10 划 分 训 练 集 和 验 证 集 \TU/lmr/m/n/10 from sklearn.cross$[]\O
+ML/cmm/m/it/10 alidationimporttrain[]est[]plit; cross[]al[]coreX[]rain; X[]est;
+ Y[]rain; Y[]est \OT1/cmr/m/n/10 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.461 ...om sklearn.metrics import classification_
+                                                  report
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.464 ^^I^^I^^I#
+                scores = cross_val_score(model,X_train,Y_train,cv=5).ravel()
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.465 ^^I^^I^^I#
+                score = np.mean(scores)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.469 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (94.35619pt too wide) in paragraph at lines 461--469
+[]\TU/lmr/m/n/10 from sklearn.metrics import classification$[]\OML/cmm/m/it/10 
+eportdeftry[]ifferent[]ethod\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 model; name\OT1/c
+mr/m/n/10 ) : \OML/cmm/m/it/10 model:fit\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X[]ra
+in; Y[]rain\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 scores \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (73.28337pt too wide) in paragraph at lines 461--469
+\OML/cmm/m/it/10 cross[]al[]core\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 model; X[]rai
+n; Y[]rain; cv \OT1/cmr/m/n/10 = 5)\OML/cmm/m/it/10 :ravel\OT1/cmr/m/n/10 ()\OM
+L/cmm/m/it/10 score \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 np:mean\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 scores\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 print\OT1/cmr/m/n/10 (
+\OML/cmm/m/it/10 model:predict[]roba\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X[]est\OT
+1/cmr/m/n/10 ))[]\OML/cmm/m/it/10 score \OT1/cmr/m/n/10 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.471 ^^I^^I^^Iplt.scatter(np.arange(100),  Y_
+                                              test[:100],  label='true value')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.476 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (23.12726pt too wide) in paragraph at lines 470--476
+[]\TU/lmr/m/n/10 plt.figure() plt.scatter(np.arange(100), Y$[]\OML/cmm/m/it/10 
+est\OT1/cmr/m/n/10 [: 100]\OML/cmm/m/it/10 ; label \OT1/cmr/m/n/10 =[] \OML/cmm
+/m/it/10 truevalue[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 plt:scatter\OT1/cmr/m/n/1
+0 (\OML/cmm/m/it/10 np:arange\OT1/cmr/m/n/10 (100)\OML/cmm/m/it/10 ; result\OT1
+/cmr/m/n/10 [:
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.477 ^^I^^I^^Iprint(classification_
+                                    report(Y_test, result, target_names=['�...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.478 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no 不 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 续 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 保 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 续 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 保 in font [lmroman10-regular]:mapping=tex-text;!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.480 ^^I^^I^^Ifrom sklearn.linear_
+                                   model import Perceptron
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.481 ^^I^^I^^I#
+                http://scikit-learn.org/stable/modules/generated/sklearn.lin...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.481 ...ted/sklearn.linear_model.Perceptron.html#
+                                                  sklearn.linear_model.Perce...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.483 ^^I^^I^^I#
+                try_different_method(ppn, 'perceptron')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.484 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (320.64224pt too wide) in paragraph at lines 480--484
+[]\TU/lmr/m/n/10 from sklearn.linear$[]\OML/cmm/m/it/10 odelimportPerceptronhtt
+p \OT1/cmr/m/n/10 : //\OML/cmm/m/it/10 scikit \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/i
+t/10 learn:org\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 stable\OT1/cmr/m/n/10 /\OML/cmm
+/m/it/10 modules\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 generated\OT1/cmr/m/n/10 /\OM
+L/cmm/m/it/10 sklearn:linear[]odel:Perceptron:htmlsklearn:linear[]odel:Perceptr
+onppn \OT1/cmr/m/n/10 =
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.485 ^^I^^I^^Ifrom sklearn.linear_
+                                   model import LogisticRegression
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.486 ^^I^^I^^I#
+                http://scikit-learn.org/stable/modules/generated/sklearn.lin...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.486 ...arn.linear_model.LogisticRegression.html#
+                                                  sklearn.linear_model.Logis...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.489 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (421.59167pt too wide) in paragraph at lines 485--489
+[]\TU/lmr/m/n/10 from sklearn.linear$[]\OML/cmm/m/it/10 odelimportLogisticRegre
+ssionhttp \OT1/cmr/m/n/10 : //\OML/cmm/m/it/10 scikit \OMS/cmsy/m/n/10 ^^@ \OML
+/cmm/m/it/10 learn:org\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 stable\OT1/cmr/m/n/10 /
+\OML/cmm/m/it/10 modules\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 generated\OT1/cmr/m/n
+/10 /\OML/cmm/m/it/10 sklearn:linear[]odel:LogisticRegression:htmlsklearn:linea
+r[]odel:LogisticRegressionlr \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (6.78056pt too wide) in paragraph at lines 485--489
+\OML/cmm/m/it/10 LogisticRegression\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 C \OT1/cmr
+/m/n/10 = 1000\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 0\OML/cmm/m/it/10 ; random[]tat
+e \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 ; class[]eight \OT1/cmr/m/n/10 =[] \OML/c
+mm/m/it/10 balanced[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 try[]ifferent[]ethod\OT1
+/cmr/m/n/10 (\OML/cmm/m/it/10 lr;[] lr[]; \OT1/cmr/m/n/10 )$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.492 ^^I^^I^^I#
+                http://scikit-learn.org/stable/modules/generated/sklearn.svm...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.492 ...e/modules/generated/sklearn.svm.SVC.html#
+                                                  sklearn.svm.SVC
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.493 ...svm = SVC(kernel='linear', C=1.0, random_
+                                                  state=0,probability=True)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.494 ^^I^^I^^I#
+                try_different_method(svm, 'svc')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.495 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (81.06456pt too wide) in paragraph at lines 491--495
+[]\TU/lmr/m/n/10 from sklearn.svm import SVC http://scikit-learn.org/stable/mod
+ules/generated/sklearn.svm.SVC.htmlsklearn.svm.SVC
+ []
+
+
+Overfull \hbox (4.76822pt too wide) in paragraph at lines 491--495
+\TU/lmr/m/n/10 svm = SVC(kernel=’linear’, C=1.0, random$[]\OML/cmm/m/it/10 tate
+ \OT1/cmr/m/n/10 = 0\OML/cmm/m/it/10 ; probability \OT1/cmr/m/n/10 = \OML/cmm/m
+/it/10 True\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 try[]ifferent[]ethod\OT1/cmr/m/n/1
+0 (\OML/cmm/m/it/10 svm;[] svc[]\OT1/cmr/m/n/10 )$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.497 ^^I^^I^^I#
+                http://scikit-learn.org/stable/modules/generated/sklearn.tre...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.497 ...sklearn.tree.DecisionTreeClassifier.html#
+                                                  sklearn.tree.DecisionTreeC...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.498 ...nTreeClassifier(criterion='entropy', max_
+                                                  depth=10, random_state=0, ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.500 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (304.53569pt too wide) in paragraph at lines 496--500
+[]\TU/lmr/m/n/10 from sklearn.tree import DecisionTreeClassifier http://scikit-
+learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.htmlskle
+arn.tree.DecisionTreeClassifier
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.502 ...mForestClassifier(criterion='entropy', n_
+                                                  estimators=10, random_stat...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.503 ^^I^^I^^I#
+                http://scikit-learn.org/stable/modules/generated/sklearn.ens...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.503 ...arn.ensemble.RandomForestClassifier.html#
+                                                  sklearn.ensemble.RandomFor...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.504 ^^I^^I^^I#
+                criterion特征选择度量，n_estimators随机森林中单...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.505 ^^I^^I^^I#
+                try_different_method(forest, 'RandomForest')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.506 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no 特 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 征 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 选 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 择 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 度 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 量 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 随 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 机 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 森 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 林 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 中 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 单 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 棵 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 树 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 数 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 目 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no ， in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 设 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 置 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 并 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 行 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 生 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 成 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 树 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 模 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 型 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 得 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 数 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 目 in font [lmroman10-regular]:mapping=tex-text;!
+
+Overfull \hbox (24.47568pt too wide) in paragraph at lines 501--506
+[]\TU/lmr/m/n/10 from sklearn.ensemble import RandomForestClassifier forest = R
+andomForestClassifier(criterion=’entropy’,
+ []
+
+
+Overfull \hbox (924.30376pt too wide) in paragraph at lines 501--506
+\TU/lmr/m/n/10 n$[]\OML/cmm/m/it/10 stimators \OT1/cmr/m/n/10 = 10\OML/cmm/m/it
+/10 ; random[]tate \OT1/cmr/m/n/10 = 1\OML/cmm/m/it/10 ; n[]obs \OT1/cmr/m/n/10
+ = 2\OML/cmm/m/it/10 ; class[]eight \OT1/cmr/m/n/10 =[] \OML/cmm/m/it/10 balanc
+ed[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 http \OT1/cmr/m/n/10 : //\OML/cmm/m/it/10
+ scikit \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 learn:org\OT1/cmr/m/n/10 /\OML/cm
+m/m/it/10 stable\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 modules\OT1/cmr/m/n/10 /\OML/
+cmm/m/it/10 generated\OT1/cmr/m/n/10 /\OML/cmm/m/it/10 sklearn:ensemble:RandomF
+orestClassifier:htmlsklearn:ensemble:RandomForestClassifiercriterion[][][][][][
+][]n[]stimators[][][][][][][][][][][]n[]obs[][][][][][][][][][][][]try[]ifferen
+t[]ethod\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 forest;[] RandomForest[]\OT1/cmr/m/n/
+10 )$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.508 ...^^IExtraTree = ExtraTreeClassifier(class_
+                                                  weight='balanced')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.510 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (210.85081pt too wide) in paragraph at lines 507--510
+[]\TU/lmr/m/n/10 from sklearn.tree import ExtraTreeClassifier ExtraTree = Extra
+TreeClassifier(class$[]\OML/cmm/m/it/10 eight \OT1/cmr/m/n/10 =[] \OML/cmm/m/it
+/10 balanced[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 try[]ifferent[]ethod\OT1/cmr/m/
+n/10 (\OML/cmm/m/it/10 ExtraTree;[] ExtraTree[]\OT1/cmr/m/n/10 )$ 
+ []
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.513 ^^I^^I^^I#
+                try_different_method(Bagging, 'Bagging')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.513 ^^I^^I^^I#try_
+                    different_method(Bagging, 'Bagging')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.514 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (82.0354pt too wide) in paragraph at lines 511--514
+[]\TU/lmr/m/n/10 from sklearn.ensemble import BaggingClassifier Bagging = Baggi
+ngClassifier() try$[]\OML/cmm/m/it/10 ifferent[]ethod\OT1/cmr/m/n/10 (\OML/cmm/
+m/it/10 Bagging;[] Bagging[]\OT1/cmr/m/n/10 )$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.517 ^^I^^I^^Itry_
+                   different_method(gbc, 'gbc')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.518 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (96.63963pt too wide) in paragraph at lines 515--518
+[]\TU/lmr/m/n/10 from sklearn.ensemble import GradientBoostingClassifier gbc = 
+GradientBoostingClassifier() try$[]\OML/cmm/m/it/10 ifferent[]ethod\OT1/cmr/m/n
+/10 (\OML/cmm/m/it/10 gbc;[] gbc[]\OT1/cmr/m/n/10 )$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.521 ^^I^^I^^I#
+                目标样本
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.525 ^^I^^I^^IsecondData =pd.read_
+                                   excel("C:\\Users\\artemis\\Desktop\\认�...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.526 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no 认 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 证 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 杯 in font [lmroman10-regular]:mapping=tex-text;!
+! You can't use `macro parameter character #' in vertical mode.
+l.540 ^^I^^I^^I#
+                进行数据预处理,对分类变量和普通变量分别�...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.541 ^^I^^I^^I#
+                 from sklearn import preprocessing
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.542 ^^I^^I^^I#
+                 ss_x = preprocessing.StandardScaler()
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.542 ^^I^^I^^I# ss_
+                    x = preprocessing.StandardScaler()
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.543 ^^I^^I^^I#
+                 oneH_enc = preprocessing.OneHotEncoder()
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.544 ^^I^^I^^I#
+                 Xother = ss_x.fit_transform(Xother)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.545 ^^I^^I^^I#
+                 Xclassify = oneH_enc.fit_transform(Xclassify)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.546 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (5.61415pt too wide) in paragraph at lines 540--546
+\TU/lmr/m/n/10 processing  ss$[] \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 preprocessi
+ng:StandardScaler\OT1/cmr/m/n/10 ()\OML/cmm/m/it/10 oneH[]nc \OT1/cmr/m/n/10 = 
+\OML/cmm/m/it/10 preprocessing:OneHotEncoder\OT1/cmr/m/n/10 ()\OML/cmm/m/it/10 
+Xother \OT1/cmr/m/n/10 =
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.548 ^^I^^I^^I#
+                预测模型,可以进行调整
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.554 ^^I^^I^^I#
+                优化的目标函数
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+Overfull \hbox (12.07568pt too wide) in paragraph at lines 558--564
+[]\TU/lmr/m/n/10 args = np.array(args) Xclassify = secondX[secClassifyVar].valu
+es[index].tolist() Xclassify.append(args[2])
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.576 ^^I^^I^^IXother = ss_
+                           x.transform(Xother)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.578 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.582 ^^I^^I^^I#
+                print(testX)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+[15]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.584 ^^I^^I^^Iprob = model.predict_
+                                    proba(testX)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.585 ^^I^^I^^I#
+                print(prob)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.588 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.589 ^^I^^I^^Icons = ({'type': 'ineq',#
+                                        不等式约束条件
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.591 ^^I^^I^^I{'type': 'ineq',#
+                                不等式约束条件
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.593 ^^I^^I^^I{'type': 'ineq',#
+                                不等式约束条件
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.595 ^^I^^I^^I{'type': 'ineq',#
+                                不等式约束条件
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.597 ^^I^^I^^I{'type': 'ineq',#
+                                不等式约束条件
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.599 ^^I^^I^^I{'type': 'ineq',#
+                                不等式约束条件
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.601 ^^I^^I^^I{'type': 'ineq',#
+                                不等式约束条件
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.603 ^^I^^I^^I{'type': 'ineq',#
+                                不等式约束条件
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.605 ^^I^^I^^I{'type': 'ineq',#
+                                不等式约束条件
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.607 ^^I^^I^^I{'type': 'ineq',#
+                                不等式约束条件
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+<recently read> ##
+                  
+l.609 ^^I^^I^^I{'type': 'ineq',#
+                                不等式约束条件
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.613 ^^I^^I^^I#
+                初值
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.620 ^^I^^I^^IoriginPro.append(model.predict_
+                                              proba(X.toarray()[index].resha...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.623 ^^I^^I^^I#
+                print('originalChioce: ')
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.624 ^^I^^I^^I#
+                print(Y[index])
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in math mode.
+l.625 ^^I^^I^^I#
+                print(x0)
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.632 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (491.09181pt too wide) in paragraph at lines 616--632
+[]\TU/lmr/m/n/10 originPro = [] afterPro = [] for i in range(100): index = i + 
+5000 originPro.append(model.predict$[]\OML/cmm/m/it/10 roba\OT1/cmr/m/n/10 (\OM
+L/cmm/m/it/10 X:toarray\OT1/cmr/m/n/10 ()[\OML/cmm/m/it/10 index\OT1/cmr/m/n/10
+ ]\OML/cmm/m/it/10 :reshape\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10
+ 1\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1)\OML/cmm/m/it/10 :transpose\OT1/cmr/m/n/
+10 ())[0][1])\OML/cmm/m/it/10 print\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X:toarray\
+OT1/cmr/m/n/10 ()[\OML/cmm/m/it/10 index\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 :resh
+ape\OT1/cmr/m/n/10 (\OMS/cmsy/m/n/10 ^^@\OT1/cmr/m/n/10 1\OML/cmm/m/it/10 ; \OT
+1/cmr/m/n/10 1)\OML/cmm/m/it/10 :transpose\OT1/cmr/m/n/10 ())\OML/cmm/m/it/10 x
+\OT1/cmr/m/n/10 0 =
+ []
+
+
+Overfull \hbox (102.81961pt too wide) in paragraph at lines 616--632
+\OML/cmm/m/it/10 origin\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 index\OT1/cmr/m/n/10 ]
+\OML/cmm/m/it/10 print\OT1/cmr/m/n/10 ([]\OML/cmm/m/it/10 originalChioce \OT1/c
+mr/m/n/10 :[])\OML/cmm/m/it/10 print\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 Y\OT1/cmr
+/m/n/10 [\OML/cmm/m/it/10 index\OT1/cmr/m/n/10 ])\OML/cmm/m/it/10 print\OT1/cmr
+/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 print\OT1/cmr/m/n
+/10 ([]\OML/cmm/m/it/10 originalplan[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 print\O
+T1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 0)\OML/cmm/m/it/10 res \OT1/cm
+r/m/n/10 = \OML/cmm/m/it/10 minimize\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 func; x\O
+T1/cmr/m/n/10 0\OML/cmm/m/it/10 ; args \OT1/cmr/m/n/10 =
+ []
+
+
+Overfull \hbox (130.56831pt too wide) in paragraph at lines 616--632
+\OT1/cmr/m/n/10 ()\OML/cmm/m/it/10 ; constraints \OT1/cmr/m/n/10 = \OML/cmm/m/i
+t/10 cons; method \OT1/cmr/m/n/10 =[] \OML/cmm/m/it/10 SLSQP[]; options \OT1/cm
+r/m/n/10 = [])\OML/cmm/m/it/10 afterPro:append\OT1/cmr/m/n/10 (1 \OMS/cmsy/m/n/
+10 ^^@ \OML/cmm/m/it/10 res:fun\OT1/cmr/m/n/10 /10000)\OML/cmm/m/it/10 print\OT
+1/cmr/m/n/10 ([]\OML/cmm/m/it/10 newplan[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 pri
+nt\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 res:x\OT1/cmr/m/n/10 )$ 
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.633 ^^I^^I^^I#
+                开始画图
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.637 ^^I^^I^^Iplt.legend() #
+                              显示图例
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+! LaTeX Error: \begin{document} ended by \end{*sec.py*}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.642 ^^I^^I\end{*sec.py*}
+                          
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.644 ^^I^^I\begin
+                  {1}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment 1 undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.644 ^^I^^I\begin{1}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.650 ^^I^^I^^Idata = pd.read_
+                              excel("real2(2).xlsx")
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.653 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no 保 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 单 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 性 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 质 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 续 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 保 in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 年 in font [lmroman10-regular]:mapping=tex-text;!
+! You can't use `macro parameter character #' in vertical mode.
+l.659 ^^I^^I^^I#
+                进行数据预处理,对分类变量和普通变量分别�...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.661 ^^I^^I^^Iss_
+                  x = preprocessing.StandardScaler()
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.665 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.667 ^^I^^I^^IX_
+                 train = hstack((Xoriginal, Xother))
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.668 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in horizontal mode.
+l.670 ^^I^^I^^I#
+                分类个数
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.671 ^^I^^I^^In_
+                 clusters = 2
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.675 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (180.7942pt too wide) in paragraph at lines 669--675
+[]\TU/lmr/m/n/10 from sklearn.cluster import KMeans \TU/SimSun(0)/m/n/10 分 类 个 
+数 \TU/lmr/m/n/10 n$[]\OML/cmm/m/it/10 lusters \OT1/cmr/m/n/10 = 2\OML/cmm/m/it/
+10 kmean \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 KMeans\OT1/cmr/m/n/10 (\OML/cmm/m/i
+t/10 n[]lusters \OT1/cmr/m/n/10 = \OML/cmm/m/it/10 n[]lusters\OT1/cmr/m/n/10 )\
+OML/cmm/m/it/10 kmean:fit\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 X[]rain\OT1/cmr/m/n/
+10 )\OML/cmm/m/it/10 print\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 kmean:labels[]$ 
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.680 ^^I^^I^^Idata_
+                    list = X[originalVar].values
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.682 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.683 ^^I^^I^^Ilabels = kmean.labels_
+                                     [:, np.newaxis]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.685 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.687 ^^I^^I^^Istrat_
+                     df1 = pd.DataFrame(data=data_list, columns=originalVar)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.688 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.690 ^^I^^I^^Istrat_
+                     df1.to_excel(writer, 'Sheet1')
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: \begin{document} ended by \end{1}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.692 ^^I^^I\end{1}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.692 ^^I^^I\end{1}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[16] (caogao.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 15736 strings out of 429686
+ 351768 string characters out of 3180784
+ 438503 words of memory out of 3000000
+ 19568 multiletter control sequences out of 15000+200000
+ 532458 words of font info for 39 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 41i,12n,58p,498b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on caogao.pdf (16 pages).
